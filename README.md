@@ -8,3 +8,5 @@ new-featureブランチで変更し、diffで差分を確認する
 no-fast-forwardブランチで変更（45）
 
 coflictブランチで変更 -> コンフリクト発生（コンフリクト発生）
+
+github上で更新
